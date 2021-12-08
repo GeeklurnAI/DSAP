@@ -45,7 +45,6 @@ Statistics&Probability
 -ImportantInterviewQuestions-Discussion
 
 # 2)EDAMethodsandPython
-IntroductiontoPython
 
 -OverviewofPython 
 -DifferentApplicationswherePythonisUsed -FundamentalsofPythonProgramming 
@@ -58,4 +57,62 @@ IntroductiontoPython
 -Creatingthe“HelloWorld”Code 
 -DemonstratingConditionalStatements 
 -DemonstratingLoops
+
+IntrotoLibraries-Numpy,Pandas,Matplotlib EDAandDataVisualization-UsingPythonLibraries
+-DataTransformations 
+-OutlierDetectionandManagement -ChartsandGraphs 
+-OneDimensionalChart 
+-Boxplots 
+-Bargraph 
+-Histogram 
+-Scatterplots 
+-Multi-DimensionalCharts
+
+Module2:ARefreshertoPython
+-InstallationStepsforMac 
+-PackagesInstallation 
+-IntroductiontoPython 
+-Exercise:VariablesandOperators -Exercise:PythonLists
+-Exercise:Dictionaries 
+-DifferentApplicationswherePythonisUsed -ConditionalStatements 
+-Values,Types,Variables 
+-ConditionalStatements 
+-Exercise:Loops 
+-PythonFunctionsPractice 
+-Exercise:Packages
+
+SequencesandFileOperations
+-PythonFiles1/10Functions 
+-OutlierDetectionandManagement 
+-List-Properties,RelatedOperations 
+-Tuple-Properties,RelatedOperations 
+-Set-Properties,RelatedOperations 
+-Dictionary-Properties,RelatedOperations -Numbers
+
+IntroductiontoNumPy,PandasandMatplotlib
+-ReadingandWritingArraysonFiles 
+-NumPyLibrary-CreatingNumPyArray 
+-BarGraph,aPieCharttoShowInformation -PandasLibrary-CreatingSeriesandData
+
+DataManipulation
+-ConcatenationofDataObjects 
+-ExploringaDataset 
+-MergingofDataobjects 
+-Aggregation 
+-Analysingadataset 
+-PandasFunction 
+
+IntroductiontoMachineLearningwithPython
+-PythonRevision(Numpy,Pandas,ScikitLearn,Matplotlib) -MachineLearningUse-Cases 
+-MachineLearningCategories 
+-GradientDescent 
+-WhatisMachineLearning? 
+-MachineLearningProcessFlow 
+-MachineLearningtypes 
+-Linearregression
+
+Module3:LearntouseRegularExpressions
+-UnderstandingRegularExpression 
+-ImplementingRegularExpressioninPython -RegularExpressionsinAction
+
 
