@@ -15,7 +15,7 @@ Milestone5 “RL,DL,DRL”
 Total planned time: 22-weeks
 
 
-# 1)Intro to Stats and Language of DataScience
+ 1)Intro to Stats and Language of DataScience
  -Data Scientist Roles 
  -Machine Learning 
  -Applications of Machine Learning 
@@ -44,7 +44,7 @@ Statistics & Probability
 -Annova Test 
 -Important Interview Questions-Discussion
 
-# 2)EDAMethodsandPython
+2)EDAMethodsandPython
 
 -OverviewofPython 
 -DifferentApplicationswherePythonisUsed -FundamentalsofPythonProgramming 
