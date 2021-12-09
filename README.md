@@ -1,16 +1,15 @@
 # Data Science Architect Program Plan
 
-# Milestones
 
-Milestone1 “Intro to Stats and Language of DataScience”
+% Milestone1 “Intro to Stats and Language of DataScience”
  
-Milestone2 “EDA methods and Python”
+% Milestone2 “EDA methods and Python”
 
-Milestone3 “Intro to Machine Learning
+% Milestone3 “Intro to Machine Learning
 
-Milestone4 “Natural Language Processing”
+% Milestone4 “Natural Language Processing”
 
-Milestone5 “RL,DL,DRL”
+% Milestone5 “RL,DL,DRL”
 
 Total planned time: 22-weeks
 
