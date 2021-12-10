@@ -2,97 +2,100 @@
 
 # Milestones
 
-Milestone1 “Intro to Stats and Language of DataScience”
+> Milestone1 “Intro to Stats and Language of DataScience”
  
-Milestone2 “EDA methods and Python”
+> Milestone2 “EDA methods and Python”
 
-Milestone3 “Intro to Machine Learning
+> Milestone3 “Intro to Machine Learning
 
-Milestone4 “Natural Language Processing”
+> Milestone4 “Natural Language Processing”
 
-Milestone5 “RL,DL,DRL”
+> Milestone5 “RL,DL,DRL”
 
-Total planned time: 22-weeks
+Total planned time: 22-27 weeks
 
 
- 1)Intro to Stats and Language of DataScience
- -Data Scientist Roles 
- -Machine Learning 
- -Applications of Machine Learning 
- -WhyMachine Learning is the Future 
- -Data Analytics Lifecycle 
- -Statistics 
- -Different Python Modules Used for DataScience
+ ## 1)Intro to Stats and Language of DataScience
+ * Data Scientist Roles 
+ * Machine Learning 
+ * Applications of Machine Learning 
+ * WhyMachine Learning is the Future 
+ * Data Analytics Lifecycle 
+ * Statistics 
+ * Different Python Modules Used for DataScience
   
-Statistics & Probability
--Descriptive Statistics and Inferential Statistics 
--Sample and Population 
--Variables and DataTypes 
--Percentiles 
--Measure of Central Tendency 
--Measures of Spread 
--Skewness,Kurtosis 
--Sampling Distribution 
--Introduction to Probability,Discrete and Continous Distributions -Standard Probability Distribution Functions 
--Bernoulli,Binomial-Distributions 
--Descriptive Statistics and Inferential Statistics in Python 
--Normal Distributions 
--Test of Hypothesis-ZTest,T-TestandChi-squareTest 
--Confidence Interval 
--Variance,Covariance,Correlation 
--Degrees of Freedom 
--Annova Test 
--Important Interview Questions-Discussion
+> Statistics & Probability
+* Descriptive Statistics and Inferential Statistics 
+* Sample and Population 
+* Variables and DataTypes 
+* Percentiles 
+* Measure of Central Tendency 
+* Measures of Spread 
+* Skewness,Kurtosis 
+* Sampling Distribution 
+* Introduction to Probability,Discrete and Continous Distributions -Standard Probability Distribution Functions 
+* Bernoulli,Binomial-Distributions 
+* Descriptive Statistics and Inferential Statistics in Python 
+* Normal Distributions 
+* Test of Hypothesis-ZTest,T-TestandChi-squareTest 
+* Confidence Interval 
+* Variance,Covariance,Correlation 
+* Degrees of Freedom 
+* Annova Test 
+* Important Interview Questions-Discussion
 
-2)EDAMethodsandPython
+### 2)EDAMethodsandPython
 
--OverviewofPython 
--DifferentApplicationswherePythonisUsed -FundamentalsofPythonProgramming 
--Values,Types,Variables 
--ConditionalStatements 
--TheCompaniesusingPython 
--DiscussPythonScriptsonUNIX/Windows -OperationsandExpressions 
--Loops 
--WritingtotheScreen 
--Creatingthe“HelloWorld”Code 
--DemonstratingConditionalStatements 
--DemonstratingLoops
+* OverviewofPython 
+* DifferentApplicationswherePythonisUsed 
+* FundamentalsofPythonProgramming 
+* Values,Types,Variables 
+* ConditionalStatements 
+* TheCompaniesusingPython 
+* DiscussPythonScriptsonUNIX/Windows -OperationsandExpressions 
+* Loops 
+* WritingtotheScreen 
+* Creatingthe“HelloWorld”Code 
+* DemonstratingConditionalStatements 
+* DemonstratingLoops
 
-IntrotoLibraries-Numpy,Pandas,Matplotlib EDAandDataVisualization-UsingPythonLibraries
--DataTransformations 
--OutlierDetectionandManagement -ChartsandGraphs 
--OneDimensionalChart 
--Boxplots 
--Bargraph 
--Histogram 
--Scatterplots 
--Multi-DimensionalCharts
+> IntrotoLibraries-Numpy,Pandas,Matplotlib EDAandDataVisualization-UsingPythonLibraries
+* DataTransformations 
+* OutlierDetectionandManagement -ChartsandGraphs 
+* OneDimensionalChart 
+* Boxplots 
+* Bargraph 
+* Histogram 
+* Scatterplots 
+* Multi-DimensionalCharts
 
-Module2:ARefreshertoPython
--InstallationStepsforMac 
--PackagesInstallation 
--IntroductiontoPython 
--Exercise:VariablesandOperators -Exercise:PythonLists
--Exercise:Dictionaries 
--DifferentApplicationswherePythonisUsed -ConditionalStatements 
--Values,Types,Variables 
--ConditionalStatements 
--Exercise:Loops 
--PythonFunctionsPractice 
--Exercise:Packages
+> Module2:ARefreshertoPython
+* InstallationStepsforMac 
+* PackagesInstallation 
+* IntroductiontoPython 
+* Exercise:VariablesandOperators
+* Exercise:PythonLists
+* Exercise:Dictionaries 
+* DifferentApplicationswherePythonisUsed
+* ConditionalStatements 
+* Values,Types,Variables 
+* ConditionalStatements 
+* Exercise:Loops 
+* PythonFunctionsPractice 
+* Exercise:Packages
 
-SequencesandFileOperations
--PythonFiles1/10Functions 
--OutlierDetectionandManagement 
--List-Properties,RelatedOperations 
--Tuple-Properties,RelatedOperations 
--Set-Properties,RelatedOperations 
--Dictionary-Properties,RelatedOperations -Numbers
+> SequencesandFileOperations
+* PythonFiles1/10Functions 
+* OutlierDetectionandManagement 
+* List-Properties,RelatedOperations 
+* Tuple-Properties,RelatedOperations 
+* Set-Properties,RelatedOperations 
+* Dictionary-Properties,RelatedOperations -Numbers
 
-IntroductiontoNumPy,PandasandMatplotlib
--ReadingandWritingArraysonFiles 
--NumPyLibrary-CreatingNumPyArray 
--BarGraph,aPieCharttoShowInformation -PandasLibrary-CreatingSeriesandData
+> IntroductiontoNumPy,PandasandMatplotlib
+* ReadingandWritingArraysonFiles 
+* NumPyLibrary-CreatingNumPyArray 
+* BarGraph,aPieCharttoShowInformation -PandasLibrary-CreatingSeriesandData
 
 DataManipulation
 -ConcatenationofDataObjects 
@@ -102,19 +105,20 @@ DataManipulation
 -Analysingadataset 
 -PandasFunction 
 
-IntroductiontoMachineLearningwithPython
--PythonRevision(Numpy,Pandas,ScikitLearn,Matplotlib) -MachineLearningUse-Cases 
--MachineLearningCategories 
--GradientDescent 
--WhatisMachineLearning? 
--MachineLearningProcessFlow 
--MachineLearningtypes 
--Linearregression
+> IntroductiontoMachineLearningwithPython
+* PythonRevision(Numpy,Pandas,ScikitLearn,Matplotlib) 
+* MachineLearningUse-Cases 
+* MachineLearningCategories 
+* GradientDescent 
+* WhatisMachineLearning? 
+* MachineLearningProcessFlow 
+* MachineLearningtypes 
+* Linearregression
 
-Module3:LearntouseRegularExpressions
--UnderstandingRegularExpression 
--ImplementingRegularExpressioninPython 
--RegularExpressionsinAction
+> Module3:LearntouseRegularExpressions
+* UnderstandingRegularExpression 
+* ImplementingRegularExpressioninPython 
+* RegularExpressionsinAction
 
 # 3)	Intro to Machine Learning
 
@@ -125,7 +129,7 @@ Introduction
 -	Machine Learning Process Flow
 -	Machine Learning types
 
-Module 9 : Machine Learning Algorithms (Structured data algorithms)
+Module  : Machine Learning Algorithms (Structured data algorithms)
 -	Types of Machine Learning Algorithms
 -	Logistic Regression
 -	Decision Tree
@@ -202,7 +206,7 @@ Association Rules Mining and Recommendation Systems
 
 # 4)	Natural Language Processing
 
-Module 4 : First Step of NLP - Text Processing (NLTK)
+Module  : First Step of NLP - Text Processing (NLTK)
 -	Tokenization and Text Normalisation
 -	Exercise: Tokenisation and Text Normalisation
 -	Exploring Text Data
@@ -212,7 +216,7 @@ Module 4 : First Step of NLP - Text Processing (NLTK)
 -	Exercise: Implementing Text Pre-processing Using NLTK
 -	Natural Language Processing Techniques Using spaCy
 
-Module 6 : Feature Engineering for Text
+Module  : Feature Engineering for Text
 -	Introduction to Text Feature Engineering
 -	Count Vector, TFIDF Representations of Text
 -	Exercise: Introduction to Text Feature Engineering
@@ -222,7 +226,7 @@ Module 6 : Feature Engineering for Text
 -	Word Embeddings in Action - Word2Vec
 -	Word Embeddings in Action - Glove
 
-Module 7 : Mastering the Art of Text Cleaning
+Module  : Mastering the Art of Text Cleaning
 -	Introduction to Text Cleaning Techniques Part 1
 -	Exercise: Introduction to Text Cleaning Techniques Part 1
 -	Introduction to Text Cleaning Techniques Part 2
@@ -230,7 +234,7 @@ Module 7 : Mastering the Art of Text Cleaning
 -	Exercise: Text Cleaning Implementation
 -	NLP Techniques using spaCy
 
-Module 5 : Extracting Named Entities from Text
+Module  : Extracting Named Entities from Text
 -	Understanding Named Entity Recognition
 -	Exercise: Understanding Named Entity Recognition
 -	Implementing Dimensionality Reduction Technique
@@ -238,7 +242,7 @@ Module 5 : Extracting Named Entities from Text
 -	Named Entity Recognition and POS tagging using spaCy
 -	POS and NER in Action: Text Data Augmentation
 
-Module 8 : Interpreting Patterns from Text - Topic Modelling
+Module  : Interpreting Patterns from Text - Topic Modelling
 -	Introduction to Topic Modelling
 -	Exercise: Introduction to Topic Modelling
 -	Understanding LDA
@@ -246,11 +250,11 @@ Module 8 : Interpreting Patterns from Text - Topic Modelling
 -	Implementation of Topic Modelling
 -	LSA for Topic Modelling
 
-Module 10 : Understanding Text Classification
+Module  : Understanding Text Classification
 -	Overview of Text Classification
 -	Assignment: Share your learning and build your profile
 
-Module 14 : Introduction to Language Modelling in NLP
+Module  : Introduction to Language Modelling in NLP
 -	Overview: Language Modelling
 -	What is a Language Model in NLP?
 -	N-gram Language Model
@@ -259,7 +263,7 @@ Module 14 : Introduction to Language Modelling in NLP
 -	Neural Language Model
 -	Implementing a Neural Language Model
 
-Module 15 : Sequence-to-Sequence Modelling
+Module  : Sequence-to-Sequence Modelling
 -	Intuition Behind Sequence-to-Sequence Modelling
 -	Need for Sequence-to-Sequence Modelling
 -	Understanding the Architecture of Sequence-to-Sequence
@@ -269,13 +273,13 @@ Module 15 : Sequence-to-Sequence Modelling
 -	Converting Text to Integer Sequences
 -	Model Building and Inference
 
-Module 16 : Bonus Section (Advance NLP tools)
+Module  : Bonus Section (Advance NLP tools)
 -	Text Classification & amp; Word Representations using FastText (An NLP library by Facebook)
 -	Introduction to Flair for NLP: A Simple yet Powerful State-of-the-Art NLP Library
 -	A Step-by-Step NLP Guide to Learn Elmo for Extracting Features from Text
 -	8 Excellent Pretrained Models to get you started with Natural Language Processing (NLP)
 
-Module 16 : Bonus SectioNatural Language Processing with deep Learning in Pythonn (Advance NLP tools)
+Module  : Bonus SectioNatural Language Processing with deep Learning in Pythonn (Advance NLP tools)
 -	Understand and implement word2vec
 -	Understand the CBOW method in word
 -	Understand the skip-gram method in word2vec
@@ -305,7 +309,7 @@ Reinforcement Learning
 -	Discounted Reward
 -	Implementing Q Learning"
 
-Module 11 : Introduction to Deep Learning
+Module  : Introduction to Deep Learning
 etting started with Neural Network
 -	Exercise: Getting started with Neural Network"
 -	Understanding Forward Propagation
@@ -326,12 +330,12 @@ etting started with Neural Network
 -	Introduction to Pooling
 -	CNN architecture and it's working
 
-Module 12 : Deep Learning for NLP
+Module  : Deep Learning for NLP
 -	Deep Learning for NLP Part 1
 -	Deep Learning for NLP Part 2
 -	Text Generation Using LSTM
 
-Module 13: Recurrent Neural Networks
+Module : Recurrent Neural Networks
 -	Why RNN
 -	Introduction to RNN: Shortcomings of an MLP
 -	Introduction to RNN: RNN Architecture
