@@ -15,7 +15,7 @@
 Total planned time: 22-27 weeks
 
 
- ## 1)Intro to Stats and Language of DataScience
+ ## 1) Intro to Stats and Language of DataScience
  * Data Scientist Roles 
  * Machine Learning 
  * Applications of Machine Learning 
@@ -44,7 +44,7 @@ Total planned time: 22-27 weeks
 * Annova Test 
 * Important Interview Questions-Discussion
 
-### 2)EDAMethodsandPython
+### 2) EDAMethodsandPython
 
 * OverviewofPython 
 * DifferentApplicationswherePythonisUsed 
@@ -69,7 +69,7 @@ Total planned time: 22-27 weeks
 * Scatterplots 
 * Multi-DimensionalCharts
 
-> Module2:ARefreshertoPython
+> Module:ARefreshertoPython
 * InstallationStepsforMac 
 * PackagesInstallation 
 * IntroductiontoPython 
@@ -115,7 +115,7 @@ DataManipulation
 * MachineLearningtypes 
 * Linearregression
 
-> Module3:LearntouseRegularExpressions
+> Module:LearntouseRegularExpressions
 * UnderstandingRegularExpression 
 * ImplementingRegularExpressioninPython 
 * RegularExpressionsinAction
